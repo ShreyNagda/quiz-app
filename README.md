@@ -1,16 +1,19 @@
-# quizz
+# Kwizz
+This is a quiz / questionnaire app developed using flutter and the OpenTDB API.
+## Flutter packages used:
 
-A new Flutter project.
+Material
+Http
+## Available on Devices:
 
-## Getting Started
+Android
+IOS(not tested by me)
+Windows
+Web
+MacOS(not tested by me)
+Linux(not tested by me)
+To test the app:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Clone this Git Repository
+Open it using Android Studio or any other IDE
+Run it on any of the listed device
